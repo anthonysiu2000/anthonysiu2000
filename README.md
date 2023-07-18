@@ -1,6 +1,6 @@
 ### Anthony Siu's Github Repository
 
-### Projects are pinned as follows:
+### Notable Projects are as follows:
 
 <!--
 **anthonysiu2000/anthonysiu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
