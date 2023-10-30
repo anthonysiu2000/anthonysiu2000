@@ -20,3 +20,5 @@
 
 
 [to-be-added](https://github.com/anthonysiu2000)
+
+And [others](https://github.com/anthonysiu2000/Facial-Recognition-Attendance-System).
