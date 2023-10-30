@@ -1,9 +1,9 @@
 ### Anthony Siu's Github Repository
 
 
+- ⚡ I’m currently working on and building upon various REACT tutorials.
 - 🌱 I’m currently learning AWS, Agile/SAFe frameworks, and React in order to diversify my skillset, while still keeping my ML/AI skills fresh by training new models and neural networks on old datasets.
 - 📫 How to reach me: tonysiu123@yahoo.com, tonysiu123@gmail.com, or 908-267-2238
-- ⚡ Fun fact: ...
 
 
 
@@ -12,7 +12,7 @@
 [Facial-Recognition-Attendance-System](https://github.com/anthonysiu2000/Facial-Recognition-Attendance-System), a Python project build upon facial recognition and database libraries to develop an application to utilize cameras to automate attendance systems.
 
 
-[to-be-added](https://github.com/anthonysiu2000)
+[Backend of HACKRU](https://github.com/anthonysiu2000/LCS), the backend of the Rutgers biannual hackathon, of which I was part of the team in Spring 2022.
 
 
 [to-be-added](https://github.com/anthonysiu2000)
