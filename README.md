@@ -11,5 +11,4 @@
 
 ### Notable Projects are as follows:
 
-## Facial-Recognition-Attendance-System
-[Link text](https://website-name.com)
+[Facial-Recognition-Attendance-System](https://github.com/anthonysiu2000/Facial-Recognition-Attendance-System)
