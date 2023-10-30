@@ -1,5 +1,6 @@
 # Hi👋, I'm Anthony Siu and this is my Github Repository :)
 
+A CS Graduate from Cornell with a passion in MLAI and data.
 
 
 - ⚡ I’m currently working on and building upon various REACT tutorials.
