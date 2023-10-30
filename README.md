@@ -9,7 +9,7 @@
 
 ### Notable Projects are as follows:
 
-[Facial-Recognition-Attendance-System](https://github.com/anthonysiu2000/Facial-Recognition-Attendance-System)
+[Facial-Recognition-Attendance-System](https://github.com/anthonysiu2000/Facial-Recognition-Attendance-System), a Python project build upon facial recognition and database libraries to develop an application to utilize cameras to automate attendance systems.
 
 
 [to-be-added](https://github.com/anthonysiu2000)
