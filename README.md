@@ -17,7 +17,7 @@ A CS Graduate from Cornell with a passion in ML/AI and databases.
 [Backend of HACKRU](https://github.com/anthonysiu2000/LCS), the backend of the Rutgers biannual hackathon, of which I was part of the team in Spring 2022.
 
 
-[to-be-added](https://github.com/anthonysiu2000)
+[CartPoleML](https://github.com/anthonysiu2000/CartPoleML), a project centered around ML, working with OpenAI Gym's CartPole Environment
 
 
 [to-be-added](https://github.com/anthonysiu2000)
