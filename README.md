@@ -23,7 +23,7 @@ A CS Graduate from Cornell with a passion in ML/AI and databases.
 [CVFeatureDetection](https://github.com/anthonysiu2000/CVFeatureDetection), a project centered around CV, and detecting and matching specific features across different photos.
 
 
-[CVFeatureDetection](https://github.com/anthonysiu2000/CNNImageClassification), a project centered around CV, using CNNS to classify images.
+[CNNImageClassification](https://github.com/anthonysiu2000/CNNImageClassification), a project centered around CV, using CNNS to classify images.
 
 
 
