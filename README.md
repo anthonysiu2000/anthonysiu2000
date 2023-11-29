@@ -28,3 +28,6 @@ A CS Graduate from Cornell with a passion in ML/AI and databases.
 
 
 And [others](https://github.com/anthonysiu2000?tab=repositories).
+
+
+[CURRENT AWS PROJECT](https://main.d4tou30xyh0a4.amplifyapp.com/), based off of and expanding upon AWS tutorials.
