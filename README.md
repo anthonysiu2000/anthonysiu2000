@@ -14,7 +14,7 @@ A CS Graduate from Cornell with a passion in ML/AI and databases.
 [Facial-Recognition-Attendance-System](https://github.com/anthonysiu2000/Facial-Recognition-Attendance-System), a Python project build upon facial recognition and database libraries to develop an application to utilize cameras to automate attendance systems.
 
 
-[AndroidPhotos](https://github.com/anthonysiu2000/AndroidPhotos/tree/master), an Android photos app for which I built a unique user interface for utilizing Java and Android Studio.
+[AndroidPhotos](https://github.com/anthonysiu2000/PhotoLibraryAndroid), an Android photos app for which I built a unique user interface for utilizing Java and Android Studio.
 
 [Backend of HACKRU](https://github.com/anthonysiu2000/LCS), the backend of the Rutgers biannual hackathon, of which I was part of the team in Spring 2022.
 
